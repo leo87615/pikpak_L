@@ -15,7 +15,7 @@ DEBUG_MODE = True  # Debug模式，是否打印请求返回信息
 PROXY = ''
 # PUSHPLUS_TOKEN = os.getenv('PUSHPLUS_TOKEN') or ''
 # INVITE_CODE = os.getenv('INVITE_CODE') or input('请输入邀请码: ')
-PUSHPLUS_TOKEN = '43926019'
+PUSHPLUS_TOKEN = ''
 #这个填自己的邀请码，不要搞我，我乱填的
 INVITE_CODE = '43926019'
 PUSH_MSG = ''
